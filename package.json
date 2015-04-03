@@ -1,0 +1,30 @@
+{
+  "name": "kasra-logger",
+  "version": "1.0.0",
+  "description": "Logger which logs error and other events tothe console or third-party service.",
+  "main": "index.js",
+  "readmeFilename": "readme.md",
+  "_id": "kasra-logger@1.0.0",
+  "_resolved": "git+ssh://git@kasra-deploy:menapost/kasra-logger.git",
+  "_from": "kasra-logger@git+ssh://git@kasra-deploy:menapost/kasra-logger.git",
+  "keywords": [
+    "logger"
+  ],
+  "scripts": {
+    "lint": "jshint .",
+    "validate": "",
+    "test": ""
+  },
+  "dependencies": {
+    "lodash": "3.6.0",
+    "winston": "0.9.0"
+  },
+  "devDependencies": {
+    "precommit-hook": "latest"
+  },
+  "author": "Tamas Geschitz",
+  "license": "private",
+  "engines": {
+    "node": "0.10.33"
+  }
+}
