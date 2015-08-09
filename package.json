@@ -5,8 +5,8 @@
   "main": "index.js",
   "readmeFilename": "readme.md",
   "_id": "kasra-logger@1.0.0",
-  "_resolved": "git+ssh://git@kasra-deploy:menapost/kasra-logger.git",
-  "_from": "kasra-logger@git+ssh://git@kasra-deploy:menapost/kasra-logger.git",
+  "_resolved": "git+ssh://git@github.com:kasra-co/kasra-logger.git",
+  "_from": "kasra-logger@git+ssh://git@github.com:kasra-co/kasra-logger.git",
   "keywords": [
     "logger"
   ],
